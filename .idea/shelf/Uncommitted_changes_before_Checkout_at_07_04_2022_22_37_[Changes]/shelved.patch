@@ -1,0 +1,16 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># neuro-startup\r\nNeuroStartUp — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. Наши преимущества:\r\n\r\nВысокая точность поиска\r\nВысокая скорость поиска\r\nНизкая цена\r\n\r\nООО «Рога и копыта»\r\nИздательство «Читый лист»\r\nКосмопорт «Черезтерновый Кзвёздный»\r\nДизайн-студия имени Слишком Известного Персонажа\r\n\r\nНиже пример кода из нашего приложения:\r\n\r\n.selector {\r\nfont-family: \"Awesome\", Arial, sans-serif;\r\ncolor: red;\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision c6d09bb790cec4facd940df87cac99ced1abe2e2)
++++ b/README.md	(date 1649359385082)
+@@ -1,4 +1,4 @@
+-# neuro-startup
++git push -u origin localgit push -u origin local# neuro-startup
+ NeuroStartUp — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. Наши преимущества:
+ 
+ Высокая точность поиска
