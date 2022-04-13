@@ -1,0 +1,22 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># NeuroStartUp\r\n>  динамически развивающийся стартап,\r\nспециализирующийся на поиске с использованием новейших\r\nтехнологий искусственного интеллекта.\r\n\r\n>Наши преимущества:\\\r\nВысокая скорость поиска\\\r\nНизкая цена\r\n\r\nМы на столько крутые, что уже успели поработать со следующими команиями:\r\n\r\nООО «Рога и копыта»\\\r\nИздательство «Читый лист»\\\r\nКосмопорт «Черезтерновый Кзвёздный»\\\r\nДизайн-студия имени Слишком Известного Персонажа\\\r\n\r\nНиже пример кода из нашего приложения: \r\n~~~ jql\r\n.selector {\r\nfont-family: \"Awesome\", Arial, sans-serif;\r\ncolor: red;\r\n}\r\n~~~
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 4683e974847fec341c909a4f9b98756ea75065f8)
++++ b/README.md	(date 1649868676102)
+@@ -14,8 +14,9 @@
+ Космопорт «Черезтерновый Кзвёздный»\
+ Дизайн-студия имени Слишком Известного Персонажа\
+ 
+-Ниже пример кода из нашего приложения: 
+-~~~ jql
++Ниже пример кода из нашего приложения:
++ 
++~~~ java
+ .selector {
+ font-family: "Awesome", Arial, sans-serif;
+ color: red;
